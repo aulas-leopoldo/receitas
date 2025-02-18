@@ -2,8 +2,8 @@
 
 ## Ingredientes
 
-* 1 Abacate bem maduro
-* Limão Siciliano
+* Abacate
+* Limão
 * Sal
 * Tomate
 

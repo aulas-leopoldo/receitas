@@ -1,9 +1,9 @@
-# Bolo de Cenoura
+# Bolo de Morango
 
 ## Ingredientes
 
 * Farinha de trigo
-* Cenoura
+* Morango
 * ...
 
 ## Instruções de preparo

@@ -1,4 +1,4 @@
-# Bolo de Chocolate
+# Bolo de Cenoura
 
 ## Ingredientes
 
@@ -8,7 +8,7 @@
 * 3 cenouras médias raladas
 * 4 ovos
 * 2 xícaras de açúcar
-* 2 xícaras de farinha de trigo
+* 2 xícaras de farinha de trigo ou farinha de arroz
 * 1 colher de fermento em pó
 
 ### Cobertura

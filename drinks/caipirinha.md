@@ -8,4 +8,4 @@
 
 ## Instruções de preparo
 
-Misture tudo
+* Misturar os ingredientes em um copo.

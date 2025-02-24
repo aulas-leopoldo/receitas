@@ -6,5 +6,5 @@
 
 ## Instuções de preparo
 
-* pula
+* Misturar os ingredientes
 

@@ -9,4 +9,4 @@
 
 ## Instruções de preparo
 
-Empilha tudo e vai pro forno.
+* Empilha tudo e vai pro forno.

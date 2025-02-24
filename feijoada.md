@@ -6,5 +6,4 @@
 
 ## Instuções de preparo
 
-* Misturar os ingredientes
-
+* A definir

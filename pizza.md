@@ -1,4 +1,4 @@
-## Pizza 
+# Pizza 
 
 ## Ingredientes
 
@@ -9,5 +9,6 @@
 * presunto
 * molho de tomate
 
+## Instruções de preparo
 
-## Modo de Preparo
+* A definir

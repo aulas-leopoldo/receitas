@@ -8,4 +8,11 @@ jobs:
       - run: echo "Hello World! Isso aqui foi automaticamente disparado a partir de um evento ${{ github.event_name }}."
       - run: echo "Estamos rodando no ${{ runner.os }} em um servidor hospedado pelo GitHub."
       - run: echo "O nome do branch atual é ${{ github.ref }} e o repositório é ${{ github.repository }}."
-      
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "O repositório ${{ github.repository }} foi clonado para dentro do runner."
+      - run: echo "O workflow está pronto para testar o código."
+      - name: Listar arquivos no repositório
+        run: | 
+          ls ${{ github.workspace }}
+      - run: echo "O status deste job é ${{ job.status }}."

@@ -1,0 +1,11 @@
+name: GitHub Actions Hello World
+run-name: ${{ github.actor }} esta fazendo um hello world!
+on: [push]
+jobs: 
+  Explore-Github-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello World! Isso aqui foi automaticamente disparado a partir de um evento ${{ github.event_name }}."
+      - run: echo "Estamos rodando no ${{ runner.os }} em um servidor hospedado pelo GitHub."
+      - run: echo "O nome do branch atual é ${{ github.ref }} e o repositório é ${{ github.repository }}."
+      
